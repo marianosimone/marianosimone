@@ -17,7 +17,7 @@ Things you’ll see me doing:
 
 I don’t have a strong preference on Slack (or any other IM platform) over Email, but I’m pretty principled about:
 
--  [Don’t ask to ask, just ask](https://dontasktoask.com).
+-  [Don’t ask to ask, just ask](https://dontasktoask.com), and [ask useful questions](https://joshkaufman.net/how-to-ask-useful-questions).
 -  Don’t invite me to a meeting without a clear agenda. If I need context, please include it (or links to relevant documents) in the invitation itself.
 -  [How to ask good questions](https://jvns.ca/blog/good-questions/).
 -  I love Jira/Trello and Dropbox Paper to keep track of things to do… I can deal with Google Docs and Google Sheets, but I’d rather not.
